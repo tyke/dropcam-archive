@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "request": "~2.31.0",
+    "q": "~1.0.0",
+    "underscore": "~1.5.2",
+    "rtmp-download": "0.0.3",
+    "moment": "~2.5.0"
+  }
+}
